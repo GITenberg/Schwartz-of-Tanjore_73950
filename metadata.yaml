@@ -1,0 +1,34 @@
+_repo: Schwartz-of-Tanjore_73950
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Page, Jesse
+    gutenberg_agent_id: '57284'
+    url: http://www.gutenberg.org/2009/agents/57284
+description: ''
+gutenberg_issued: '2024-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73950'
+language: en
+pgterms:marc904: https://archive.org/details/schwartzoftanjor00page/page/n5/mode/2up
+pgterms:marc905: 20230415024055page
+pgterms:marc906: '1921'
+pgterms:marc907: gb
+production_note: Carla Foust, Brian Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bSociety of Promoting Christian Knowledge, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Ecclesiastical biographies
+subjects:
+- !lcsh 'Missions -- India'
+- !lcsh 'India -- Description and travel'
+- !lcsh 'Missionaries -- India -- Biography'
+- !lcsh 'Swartz, Christian Frederick, 1726-1798'
+- !lcc 'BV'
+- GITenberg
+title: Schwartz of Tanjore
+url: http://www.gutenberg.org/ebooks/73950
