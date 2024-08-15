@@ -1,11 +1,16 @@
 _repo: Schwartz-of-Tanjore_73950
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73950-h/images/cover.jpg
 creator:
   author:
     agent_name: Page, Jesse
     gutenberg_agent_id: '57284'
     url: http://www.gutenberg.org/2009/agents/57284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73950#Schwartz-of-Tanjore
 gutenberg_issued: '2024-06-29'
 gutenberg_type: Text
 identifiers:
